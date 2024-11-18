@@ -9,6 +9,7 @@ Setup Instructions:
 Prerequisites:
 
 Text Editor: Visual Studio Code is recommended but any text editor will work.
+
 Basic understanding of HTML, CSS, and JavaScript: While not required, a basic understanding will be helpful.
 Steps:
 
